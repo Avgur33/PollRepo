@@ -42,8 +42,8 @@ default port - http://localhost:8080/
 ### For test
 - DB - http://localhost:8080/h2-console
 - Swagger - http://localhost:8080/swagger-ui
-- Documentation for api in swagger.json
-- Test users credentials:
-    - user with ADMIN role:
-        - login: admin@gmail.com
-        - password: admin
+- Документация по API swagger.json
+- Параметры для тестирования:
+    - пользователь с ролью ADMIN :
+        - логин: admin@gmail.com
+        - пароль: admin
